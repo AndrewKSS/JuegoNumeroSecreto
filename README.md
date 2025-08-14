@@ -6,3 +6,5 @@
 
 <h2> Motivo de desarrollo del proyecto</h2>
 - Desafio del curso Lógica de programación impartido por Alura Latam.
+
+<h2> De Código abierto</h2>
