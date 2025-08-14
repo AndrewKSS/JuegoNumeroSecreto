@@ -3,3 +3,6 @@
 
 <h2> Lenguajes usados </h2>
 - JavaScript.
+
+<h2> Motivo de desarrollo</h2>
+- Desafio del curso Lógica de programación impartido por Alura Latam.
